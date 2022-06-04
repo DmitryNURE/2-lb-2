@@ -1,0 +1,32 @@
+﻿[
+  {
+    "name": "Real Madrid",
+    "coach": "Fernando Santos",
+    "players": [ "Lionel Messi", "Cristiano Ronaldo", "Neymar" ]
+  },
+  {
+    "name": "Barcelona",
+    "coach": "Didier Deschamps",
+    "players": [ "Robert Lewandowski", "Kylian Mbappé", "Kevin De Bruyne"]
+  },
+  {
+    "name": "Manchester United",
+    "coach": "Arsène Wenger",
+    "players": [ "Virgil van Dijk", "Sadio Mané", "Riyad Mahrez"]
+  },
+  {
+    "name": "Juventus",
+    "coach": "Roberto Martinez",
+    "players": [ "Erling Haaland", "Johan Cruyff", "Lev Jašin" ]
+  },
+  {
+    "name": "Cheslea",
+    "coach": "Tite",
+    "players": [ "Carles Puyol", "Ryan Giggs", "Romário"]
+  },
+  {
+    "name": "Bayern Munich",
+    "coach": "Jupp Heynckes",
+    "players": [ "Francesco Totti", "Roberto Baggio", "Eusébio"]
+  }
+]

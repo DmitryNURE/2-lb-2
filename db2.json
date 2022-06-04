@@ -1,0 +1,28 @@
+[{
+    "league": "Premier League",
+    "date": "2022-06-01",
+    "teams": ["Real Madrid","Bayern Munich"],
+    "score": "2-1",
+    "place": "Wembley Stadium"
+  },
+  {
+    "league": "Premier League",
+    "date": "2022-06-01",
+    "teams": ["Real Madrid","Manchester United"],
+    "score": "0-1",
+    "place": "Camp Nou"
+  },
+  {
+    "league": "Bundesliga",
+    "date": "2022-06-02",
+    "teams": ["Juventus","Cheslea"],
+    "score": "0-2",
+    "place": "Wembley Stadium"
+  },
+  {
+    "league": "Spanish La Liga",
+    "date": "2022-06-03",
+    "teams": ["Paris-Saint-German","Bayern Munich"],
+    "score": "3-1",
+    "place": "Wembley Stadium"
+  }]
